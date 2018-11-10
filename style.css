@@ -3,5 +3,6 @@
 }
 
 .image {
-    width: 90%;
+    max-width: 500px;
+    width: 85%;
 }
