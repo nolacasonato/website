@@ -1,5 +1,3 @@
 # website
-<<<<<<< HEAD
-=======
-# website
->>>>>>> 0b57f019fc2df565aafabb4d738661abe535914d
+
+This is my website. You can visit it at nolacasonato.me
